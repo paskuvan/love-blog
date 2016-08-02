@@ -1,0 +1,207 @@
+.footer .container h1{
+  color:#edb2a1;
+  
+}
+
+.img-slider{
+  height: 450px;
+  margin-top: -30px;
+}
+
+.foot{
+  background-color:#e7663b;
+  color:white;
+}
+
+.boton{
+  background-color: #e7663b;
+  width: 150px;
+  height: 60px;
+  color:#ffffff;
+  text-decoration: none;
+}
+
+#nav li {
+  display: inline-block;
+  margin: 20px; 
+  text-decoration: none;
+  }
+
+#nav li a {
+    color: #bbbbbb; 
+    font-family: "Oswald";
+  }
+
+  h3{
+    color:#e7663b;
+    font-family: "Oswald";
+  }
+
+
+  #nav li .active {
+    color: #e46339 !important; 
+  }
+
+footer .container h2 {
+      font-family: "Oswald";
+      text-transform: uppercase;
+      color: #ffffff; }
+
+ h1{
+  color: #e7663b;
+  font-family: "Oswald"
+ }     
+
+#head{
+  text-decoration: none;
+}
+
+.love-text{
+  font-family: "Oswald";
+  margin-top: 0px;
+}
+
+.btn-primary{
+  background-color: #e7663b;
+  border-color: #e7663b;
+}
+
+.btn-primary:hover{
+  background-color: #e7663b;
+  border-color: #e7663b;
+
+}
+
+.img-square{
+  margin-left: -56px;
+  margin-bottom: -204px;
+}
+
+.img-square2{
+  margin-left: 477px;
+  margin-top: -44x;
+}
+
+.froblog{
+  color:#e7663b;
+  font-family: "Oswald";
+  background-image: url(../images/heading-bg.png);
+  background-repeat: repeat;
+}
+
+.img-portfolio{
+  width: 60px;
+  height: 60px;
+}
+
+.blog-text{
+  font-family: "Oswald";
+  color:#EA6020;
+}
+
+.lilcont{
+  border:1px solid #949292;
+}
+
+.blog_post_meta{
+  margin-left: 20px;
+}
+
+.img-blog{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.post-blog{
+  color:#949292;
+}
+
+.post-date{
+  color:#e7663b;
+  font-family: "Oswald";
+}
+
+.img-square3{
+  color:#e7663b;
+  background-repeat: repeat;
+}
+
+.about-tri{
+  background-color: #e7663b;
+  color:white;
+  height: 50px;
+  margin-top: -30px;
+  width: 1054px;
+  text-align: center;
+  font-family: "Oswald";
+}
+
+.text-author{
+  padding-top: 120px;
+}
+
+.text-cat{
+  color:#949292;
+  font-family: "Oswald";
+}
+
+.movie-post{
+  color:#949292;
+  font-family: "Oswald";
+}
+
+.released-post{
+  color:#e7663b;
+  font-family: "Oswald";
+}
+
+.movie-bord{
+  border:1px solid #949292;
+}
+
+.central img {
+  width: 100%;
+  margin-top: 20px; 
+}
+
+.central .info {
+  margin-top: 20px; 
+}
+
+.central .info p {
+  color: #424242; 
+}
+
+.central .info a {
+  color: #e46339; 
+}
+
+.central .formu input {
+  display: block;
+  width: 60%; 
+}
+
+.central .formu #mesagge {
+  width: 100%;
+  resize: none; 
+}
+
+.central .formu .boni {
+  border: 1px solid #e46339;
+  margin-bottom: 20px;
+  font-family: "Oswald";
+  text-transform: uppercase;
+  color: #e46339;
+  font-size: 20px; 
+}
+
+.blockquote {
+  color: #e46339;
+  margin-left: 30px;
+  border-left: 10px solid #e46339 !important; 
+
+}
+
+
+
+
